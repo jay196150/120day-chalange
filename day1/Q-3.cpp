@@ -17,6 +17,6 @@ int Solution::maxSubArray(const vector<int> &A) {
         
     }
     
-    return maxSum;
+    return maxSum;0
     
 }
